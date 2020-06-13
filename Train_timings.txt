@@ -1,0 +1,42 @@
+Train_name :Ranichenamma Express
+Train_no :121201
+From :Bangalore
+To :Hubali
+Departure_time :10:00am
+
+------------------------------------------------------------------------------------
+Train_name :Intercity Express
+Train_no :121205
+From :Mysore
+To :Hubali
+Departure_time :10:00pm
+
+------------------------------------------------------------------------------------
+Train_name :Chennai Express
+Train_no :12203
+From :Chennai
+To :Bangalore
+Departure_time :9:30am
+
+------------------------------------------------------------------------------------
+Train_name :Shatabdhi Express
+Train_no :12204
+From :Hubli
+To :Bangalore
+Departure_time :1:00pm
+
+------------------------------------------------------------------------------------
+Train_name :Gulbarga Express
+Train_no :12207
+From :Gulbarga
+To :Bangalore
+Departure_time :12:00pm
+
+------------------------------------------------------------------------------------
+Train_name :Belgavi Express
+Train_no :12209
+From :Hubli
+To :Bangalore
+Departure_time :7:00am
+
+------------------------------------------------------------------------------------
